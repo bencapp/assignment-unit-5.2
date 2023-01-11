@@ -1,3 +1,12 @@
+body {
+  background-image: url(record.png);
+  background-repeat: repeat;
+  margin: 0px;
+}
+
+main {
+  padding: 1em;
+}
 header {
   background-color: darkblue;
   color: antiquewhite;
