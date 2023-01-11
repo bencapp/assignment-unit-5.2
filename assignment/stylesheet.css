@@ -4,10 +4,12 @@ body {
   margin: 0px;
 }
 
-main {
+#main {
   padding: 1em;
+  background-color: lightgray;
 }
-header {
+
+.page-header {
   background-color: darkblue;
   color: antiquewhite;
   text-align: center;
